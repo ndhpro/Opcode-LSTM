@@ -1,0 +1,647 @@
+From function 4198208:
+sub
+mov
+test
+jz
+call
+add
+retn
+From function 4198240:
+push
+jmp
+From function 4198256:
+jmp
+From function 4198272:
+jmp
+From function 4198288:
+jmp
+From function 4198304:
+jmp
+From function 4198320:
+jmp
+From function 4198336:
+jmp
+From function 4198352:
+jmp
+From function 4198368:
+jmp
+From function 4198384:
+jmp
+From function 4198400:
+jmp
+From function 4198416:
+jmp
+From function 4198432:
+jmp
+From function 4198448:
+jmp
+From function 4198464:
+jmp
+From function 4198480:
+jmp
+From function 4198496:
+jmp
+From function 4198512:
+jmp
+From function 4198528:
+jmp
+From function 4198544:
+jmp
+From function 4198560:
+jmp
+From function 4198576:
+jmp
+From function 4198592:
+jmp
+From function 4198608:
+jmp
+From function 4198624:
+jmp
+From function 4198640:
+jmp
+From function 4198656:
+jmp
+From function 4198672:
+jmp
+From function 4198688:
+jmp
+From function 4198704:
+jmp
+From function 4198720:
+jmp
+From function 4198736:
+jmp
+From function 4198752:
+jmp
+From function 4198768:
+jmp
+From function 4198784:
+jmp
+From function 4198800:
+cmp
+push
+push
+push
+mov
+jz
+mov
+xor
+mov
+call
+mov
+pop
+pop
+pop
+retn
+mov
+call
+test
+mov
+jz
+xor
+xor
+call
+test
+jnz
+mov
+call
+test
+mov
+jz
+mov
+mov
+call
+mov
+mov
+call
+test
+mov
+jnz
+xor
+mov
+mov
+call
+xor
+jmp
+call
+mov
+call
+mov
+mov
+mov
+xor
+call
+mov
+jmp
+xor
+mov
+mov
+call
+xor
+jmp
+From function 4199008:
+xor
+mov
+pop
+mov
+and
+push
+push
+mov
+mov
+mov
+call
+hlt
+From function 4199056:
+mov
+push
+sub
+cmp
+mov
+jbe
+mov
+test
+jz
+pop
+mov
+jmp
+pop
+retn
+From function 4199184:
+cmp
+jnz
+push
+mov
+call
+pop
+mov
+retn
+From function 4199216:
+mov
+cmp
+jnz
+jmp
+mov
+test
+jz
+push
+mov
+call
+pop
+jmp
+mov
+push
+sub
+sar
+mov
+mov
+shr
+add
+sar
+jz
+mov
+test
+jz
+pop
+mov
+jmp
+pop
+retn
+From function 4199264:
+push
+push
+mov
+mov
+sub
+mov
+mov
+xor
+mov
+mov
+mov
+mov
+mov
+mov
+mov
+nop
+lea
+mov
+call
+test
+jz
+cmp
+jnz
+mov
+call
+sub
+jnz
+mov
+mov
+xor
+xor
+call
+mov
+test
+jz
+call
+mov
+test
+jz
+call
+mov
+test
+jz
+call
+mov
+test
+jz
+call
+mov
+xor
+mov
+jnz
+add
+pop
+pop
+retn
+mov
+lea
+mov
+call
+test
+jnz
+mov
+lea
+xor
+xor
+call
+test
+jnz
+mov
+lea
+xor
+mov
+call
+test
+jnz
+mov
+mov
+call
+test
+jz
+lea
+mov
+call
+mov
+test
+jz
+call
+mov
+mov
+mov
+call
+mov
+call
+mov
+mov
+call
+test
+jz
+lea
+mov
+call
+mov
+test
+jz
+call
+mov
+mov
+mov
+call
+mov
+call
+mov
+call
+mov
+mov
+mov
+call
+mov
+call
+mov
+mov
+mov
+call
+mov
+lea
+lea
+call
+mov
+test
+jz
+call
+mov
+mov
+call
+jmp
+mov
+mov
+xor
+call
+xor
+jmp
+mov
+mov
+xor
+call
+xor
+jmp
+mov
+mov
+xor
+call
+xor
+jmp
+xor
+jmp
+mov
+xor
+call
+jmp
+mov
+xor
+call
+jmp
+call
+From function 4199968:
+push
+push
+mov
+mov
+mov
+mov
+sub
+mov
+mov
+xor
+mov
+lea
+mov
+mov
+mov
+mov
+mov
+mov
+mov
+mov
+mov
+mov
+mov
+mov
+mov
+mov
+mov
+mov
+mov
+mov
+mov
+mov
+mov
+call
+test
+jnz
+mov
+lea
+mov
+call
+test
+jnz
+mov
+lea
+mov
+call
+test
+jnz
+mov
+test
+jz
+cmp
+jz
+mov
+lea
+call
+test
+jnz
+mov
+lea
+call
+and
+jnz
+mov
+lea
+lea
+mov
+call
+test
+jnz
+mov
+call
+mov
+mov
+lea
+mov
+mov
+call
+test
+mov
+mov
+jnz
+call
+mov
+call
+mov
+call
+mov
+call
+mov
+jmp
+call
+nop
+mov
+call
+mov
+call
+mov
+call
+xor
+mov
+xor
+jnz
+add
+pop
+pop
+retn
+xor
+mov
+mov
+call
+xor
+jmp
+mov
+mov
+mov
+mov
+mov
+call
+call
+From function 4200576:
+push
+mov
+sub
+test
+mov
+mov
+mov
+mov
+mov
+jz
+movaps
+movaps
+movaps
+movaps
+movaps
+movaps
+movaps
+movaps
+xor
+mov
+mov
+mov
+mov
+xor
+call
+lea
+mov
+mov
+mov
+mov
+mov
+mov
+lea
+mov
+mov
+call
+mov
+xor
+jnz
+add
+pop
+retn
+call
+From function 4200800:
+push
+push
+mov
+push
+push
+lea
+push
+lea
+push
+mov
+mov
+sub
+sub
+sar
+call
+test
+jz
+xor
+nop
+mov
+mov
+mov
+call
+add
+cmp
+jnz
+add
+pop
+pop
+pop
+pop
+pop
+pop
+retn
+From function 4200912:
+retn
+From function 4200916:
+sub
+add
+retn
+From function 6304072:
+retn
+From function 6304080:
+retn
+From function 6304088:
+retn
+From function 6304096:
+retn
+From function 6304104:
+retn
+From function 6304112:
+retn
+From function 6304120:
+retn
+From function 6304128:
+retn
+From function 6304136:
+retn
+From function 6304144:
+retn
+From function 6304152:
+retn
+From function 6304160:
+retn
+From function 6304168:
+retn
+From function 6304176:
+retn
+From function 6304184:
+retn
+From function 6304192:
+retn
+From function 6304200:
+retn
+From function 6304208:
+retn
+From function 6304216:
+retn
+From function 6304224:
+retn
+From function 6304232:
+retn
+From function 6304240:
+retn
+From function 6304248:
+retn
+From function 6304256:
+retn
+From function 6304264:
+retn
+From function 6304272:
+retn
+From function 6304280:
+retn
+From function 6304288:
+retn
+From function 6304296:
+retn
+From function 6304304:
+retn
+From function 6304312:
+retn
+From function 6304320:
+retn
+From function 6304328:
+retn

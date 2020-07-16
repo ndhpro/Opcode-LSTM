@@ -1,0 +1,120 @@
+From function 33944:
+MOV
+STMFD
+SUB
+LDMDB
+From function 33980:
+ADR
+ADD
+LDR
+From function 33992:
+ADR
+ADD
+LDR
+From function 34004:
+ADR
+ADD
+LDR
+From function 34016:
+ADR
+ADD
+LDR
+From function 34028:
+ADR
+ADD
+LDR
+From function 34040:
+ADR
+ADD
+LDR
+From function 34052:
+ADR
+ADD
+LDR
+From function 34064:
+MOV
+MOV
+LDR
+MOV
+STR
+STR
+LDR
+STR
+LDR
+LDR
+B
+From function 34124:
+STMFD
+LDR
+LDRB
+CMP
+LDMNEFD
+LDR
+CMP
+BEQ
+LDR
+BL
+LDR
+MOV
+STRB
+LDMFD
+From function 34192:
+STMFD
+LDR
+CMP
+BEQ
+LDR
+LDR
+BL
+LDR
+LDR
+CMP
+LDMEQFD
+LDR
+CMP
+LDMEQFD
+BLX
+LDMFD
+From function 34276:
+STMFD
+MOV
+LDR
+MOV
+MOV
+LDR
+ADD
+LDR
+LDR
+ADD
+STR
+BL
+LDR
+MOV
+ADD
+BL
+MOV
+MOV
+MOV
+MOV
+BL
+MOV
+LDMFD
+From function 34384:
+MOV
+STMFD
+SUB
+LDMDB
+From function 67636:
+RETEQ
+From function 67640:
+RETEQ
+From function 67644:
+RETEQ
+From function 67648:
+RETEQ
+From function 67652:
+RETEQ
+From function 67660:
+RETEQ
+From function 67668:
+RETEQ

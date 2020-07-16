@@ -1,0 +1,770 @@
+From function 4198192:
+li
+addu
+addiu
+sw
+sw
+sw
+bal
+nop
+li
+la
+nop
+addiu
+bal
+nop
+lw
+nop
+bal
+nop
+li
+la
+nop
+addiu
+bal
+nop
+lw
+jr
+addiu
+From function 4198368:
+lui
+lw
+jr
+addiu
+From function 4198384:
+lui
+lw
+jr
+addiu
+From function 4198400:
+lui
+lw
+jr
+addiu
+From function 4198416:
+lui
+lw
+jr
+addiu
+From function 4198432:
+lui
+lw
+jr
+addiu
+From function 4198448:
+lui
+lw
+jr
+addiu
+From function 4198464:
+lui
+lw
+jr
+addiu
+From function 4198480:
+lui
+lw
+jr
+addiu
+From function 4198496:
+lui
+lw
+jr
+addiu
+From function 4198512:
+lui
+lw
+jr
+addiu
+From function 4198528:
+lui
+lw
+jr
+addiu
+From function 4198544:
+lui
+lw
+jr
+addiu
+From function 4198560:
+lui
+lw
+jr
+addiu
+From function 4198576:
+lui
+lw
+jr
+addiu
+From function 4198592:
+lui
+lw
+jr
+addiu
+From function 4198608:
+lui
+lw
+jr
+addiu
+From function 4198624:
+lui
+lw
+jr
+addiu
+From function 4198640:
+lui
+lw
+jr
+addiu
+From function 4198656:
+lui
+lw
+jr
+addiu
+From function 4198672:
+lui
+lw
+jr
+addiu
+From function 4198688:
+lui
+lw
+jr
+addiu
+From function 4198704:
+lui
+lw
+jr
+addiu
+From function 4198720:
+lui
+lw
+jr
+addiu
+From function 4198736:
+lui
+lw
+jr
+addiu
+From function 4198752:
+lui
+lw
+jr
+addiu
+From function 4198768:
+lui
+lw
+jr
+addiu
+From function 4198784:
+lui
+lw
+jr
+addiu
+From function 4198800:
+lui
+lw
+jr
+addiu
+From function 4198816:
+lui
+lw
+jr
+addiu
+From function 4198832:
+lui
+lw
+jr
+addiu
+From function 4198848:
+lui
+lw
+jr
+addiu
+From function 4198864:
+lui
+lw
+jr
+addiu
+From function 4198880:
+addiu
+move
+move
+addiu
+move
+sw
+sw
+sw
+sw
+sw
+sw
+sw
+sw
+sw
+sw
+sw
+sw
+sw
+sw
+sw
+sw
+sw
+jal
+sw
+lui
+addiu
+jal
+la
+addiu
+jal
+addiu
+jal
+addiu
+lw
+lui
+lui
+la
+la
+lui
+lw
+beq
+addiu
+lw
+li
+jal
+addiu
+lw
+lwl
+lwr
+addiu
+addu
+lw
+sw
+sw
+li
+sw
+lw
+lw
+lwl
+lwr
+addiu
+addu
+beq
+addiu
+addiu
+sw
+addiu
+jal
+li
+lw
+sw
+lbu
+beqz
+sb
+jal
+addiu
+beqz
+addiu
+lw
+addiu
+addiu
+li
+jal
+sw
+lw
+li
+sw
+lbu
+beqz
+sb
+jal
+addiu
+move
+li
+beq
+nop
+jal
+addiu
+addiu
+jal
+li
+lw
+li
+sw
+addiu
+jal
+addiu
+jal
+addiu
+lui
+lui
+addiu
+li
+jal
+li
+addiu
+addiu
+addiu
+jal
+li
+addiu
+move
+jal
+move
+beqz
+li
+lw
+addiu
+addiu
+addiu
+jal
+sw
+lw
+addiu
+addiu
+sw
+lbu
+jal
+sb
+addiu
+li
+jal
+li
+beql
+move
+addiu
+move
+jal
+addiu
+move
+jal
+move
+move
+jal
+addiu
+move
+jal
+addiu
+move
+addiu
+jal
+addiu
+move
+jal
+addiu
+move
+jal
+li
+jal
+move
+jal
+addiu
+jal
+addiu
+jal
+addiu
+jal
+addiu
+jal
+addiu
+j
+lw
+j
+addiu
+jal
+addiu
+jal
+addiu
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+lw
+move
+jr
+addiu
+From function 4199680:
+move
+bal
+nop
+li
+move
+la
+lw
+addiu
+li
+and
+addiu
+la
+la
+sw
+sw
+sw
+la
+jalr
+nop
+b
+nop
+From function 4199776:
+lui
+lui
+la
+la
+subu
+sltiu
+beqz
+lui
+jr
+nop
+addiu
+la
+nop
+beqz
+nop
+jr
+nop
+From function 4199924:
+addiu
+sw
+lui
+lui
+lbu
+li
+sw
+sw
+sw
+sw
+bnez
+sw
+lui
+lui
+la
+la
+lui
+subu
+lw
+sra
+addiu
+sltu
+beqz
+addiu
+sll
+addu
+lw
+nop
+jalr
+sw
+lw
+nop
+sltu
+bnez
+addiu
+jal
+nop
+lw
+nop
+la
+nop
+beqz
+li
+la
+lui
+jalr
+la
+li
+sb
+lw
+lw
+lw
+lw
+lw
+jr
+addiu
+From function 4200148:
+li
+la
+addiu
+sw
+beqz
+sw
+la
+lui
+lui
+la
+jalr
+la
+lw
+lui
+lw
+nop
+beqz
+nop
+la
+nop
+beqz
+nop
+jalr
+la
+lw
+lw
+j
+addiu
+lui
+lui
+la
+la
+subu
+sra
+srl
+addu
+sra
+bnez
+lui
+jr
+nop
+addiu
+la
+nop
+beqz
+nop
+jr
+nop
+From function 4200272:
+lw
+la
+sw
+lui
+jr
+sw
+From function 4200300:
+la
+sw
+lw
+lui
+j
+sw
+From function 4200328:
+la
+sw
+la
+sw
+j
+addiu
+From function 4200360:
+lw
+lw
+j
+addu
+From function 4200376:
+addiu
+sw
+sw
+jal
+move
+lw
+move
+lw
+j
+addiu
+From function 4200416:
+lw
+lw
+j
+addu
+From function 4200432:
+la
+sw
+la
+sw
+j
+addiu
+From function 4200464:
+lw
+lw
+j
+addu
+From function 4200480:
+addiu
+sw
+sw
+jal
+move
+lw
+move
+lw
+j
+addiu
+From function 4200520:
+lw
+lw
+j
+addu
+From function 4200544:
+lw
+lw
+addiu
+sw
+sw
+jal
+move
+lw
+move
+lw
+j
+addiu
+From function 4200592:
+addiu
+sw
+sw
+move
+sw
+jal
+move
+beqz
+lw
+move
+move
+jal
+li
+move
+sll
+addu
+addiu
+bne
+sw
+lw
+lw
+lw
+jr
+addiu
+From function 4200688:
+lui
+lw
+li
+beq
+nop
+addiu
+sw
+lui
+sw
+sw
+li
+li
+jalr
+addiu
+lw
+nop
+bne
+nop
+lw
+lw
+lw
+addiu
+jr
+nop
+From function 4200784:
+lw
+move
+jalr
+li
+nop
+nop
+nop
+nop
+From function 4200816:
+li
+addu
+addiu
+sw
+sw
+sw
+bal
+nop
+li
+la
+nop
+addiu
+bal
+nop
+lw
+nop
+lw
+jr
+addiu
+From function 4266948:
+eret
+From function 4266952:
+eret
+From function 4266956:
+eret
+From function 4266960:
+eret
+From function 4266964:
+eret
+From function 4266968:
+eret
+From function 4266972:
+eret
+From function 4266976:
+eret
+From function 4266980:
+eret
+From function 4266984:
+eret
+From function 4266988:
+eret
+From function 4266992:
+eret
+From function 4266996:
+eret
+From function 4267000:
+eret
+From function 4267004:
+eret
+From function 4267008:
+eret
+From function 4267012:
+eret
+From function 4267016:
+eret
+From function 4267020:
+eret
+From function 4267024:
+eret
+From function 4267028:
+eret
+From function 4267032:
+eret
+From function 4267040:
+eret
+From function 4267044:
+eret
+From function 4267048:
+eret
+From function 4267052:
+eret
+From function 4267056:
+eret
+From function 4267060:
+eret
+From function 4267064:
+eret
+From function 4267068:
+eret
+From function 4267072:
+eret
+From function 4267076:
+eret
+From function 4267080:
+eret
+From function 4267088:
+eret
+From function 4267092:
+eret
+From function 4267096:
+eret
+From function 4267100:
+eret

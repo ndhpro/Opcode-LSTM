@@ -1,0 +1,371 @@
+From function 4197136:
+sub
+mov
+test
+jz
+call
+add
+retn
+From function 4197168:
+push
+jmp
+From function 4197184:
+jmp
+From function 4197200:
+jmp
+From function 4197216:
+jmp
+From function 4197232:
+jmp
+From function 4197248:
+jmp
+From function 4197264:
+jmp
+From function 4197280:
+jmp
+From function 4197296:
+jmp
+From function 4197312:
+jmp
+From function 4197328:
+jmp
+From function 4197344:
+jmp
+From function 4197360:
+jmp
+From function 4197376:
+jmp
+From function 4197392:
+jmp
+From function 4197408:
+jmp
+From function 4197424:
+jmp
+From function 4197440:
+jmp
+From function 4197456:
+jmp
+From function 4197472:
+jmp
+From function 4197488:
+jmp
+From function 4197504:
+jmp
+From function 4197520:
+jmp
+From function 4197536:
+jmp
+From function 4197552:
+push
+push
+push
+push
+push
+push
+sub
+mov
+mov
+xor
+cmp
+jz
+mov
+mov
+xor
+jnz
+add
+pop
+pop
+pop
+pop
+pop
+pop
+retn
+mov
+call
+test
+mov
+jz
+mov
+mov
+call
+test
+mov
+jnz
+jmp
+mov
+mov
+mov
+call
+test
+mov
+jnz
+mov
+call
+mov
+mov
+call
+mov
+call
+test
+jnz
+mov
+mov
+call
+mov
+jmp
+mov
+mov
+call
+test
+mov
+mov
+cmovz
+lea
+lea
+lea
+xor
+mov
+mov
+mov
+call
+cmp
+jz
+lea
+push
+push
+mov
+mov
+mov
+mov
+mov
+mov
+xor
+call
+pop
+pop
+mov
+mov
+call
+test
+jz
+mov
+mov
+mov
+call
+test
+mov
+jz
+mov
+mov
+call
+cmp
+jbe
+mov
+mov
+call
+mov
+xor
+call
+jmp
+cmp
+jz
+lea
+push
+mov
+mov
+mov
+mov
+mov
+mov
+push
+mov
+push
+mov
+push
+mov
+xor
+call
+add
+jmp
+call
+test
+mov
+jz
+mov
+mov
+xor
+mov
+call
+test
+mov
+jz
+mov
+call
+test
+mov
+jz
+mov
+call
+mov
+mov
+call
+mov
+mov
+call
+mov
+call
+jmp
+call
+From function 4198144:
+xor
+mov
+pop
+mov
+and
+push
+push
+mov
+mov
+mov
+call
+hlt
+From function 4198192:
+mov
+push
+sub
+cmp
+mov
+jbe
+mov
+test
+jz
+pop
+mov
+jmp
+pop
+retn
+From function 4198320:
+cmp
+jnz
+push
+mov
+call
+pop
+mov
+retn
+From function 4198352:
+mov
+cmp
+jnz
+jmp
+mov
+test
+jz
+push
+mov
+call
+pop
+jmp
+mov
+push
+sub
+sar
+mov
+mov
+shr
+add
+sar
+jz
+mov
+test
+jz
+pop
+mov
+jmp
+pop
+retn
+From function 4198400:
+push
+push
+mov
+push
+push
+lea
+push
+lea
+push
+mov
+mov
+sub
+sub
+sar
+call
+test
+jz
+xor
+nop
+mov
+mov
+mov
+call
+add
+cmp
+jnz
+add
+pop
+pop
+pop
+pop
+pop
+pop
+retn
+From function 4198512:
+retn
+From function 4198516:
+sub
+add
+retn
+From function 6299880:
+retn
+From function 6299888:
+retn
+From function 6299896:
+retn
+From function 6299904:
+retn
+From function 6299912:
+retn
+From function 6299920:
+retn
+From function 6299928:
+retn
+From function 6299936:
+retn
+From function 6299944:
+retn
+From function 6299952:
+retn
+From function 6299960:
+retn
+From function 6299968:
+retn
+From function 6299976:
+retn
+From function 6299984:
+retn
+From function 6299992:
+retn
+From function 6300000:
+retn
+From function 6300008:
+retn
+From function 6300016:
+retn
+From function 6300024:
+retn
+From function 6300032:
+retn
+From function 6300040:
+retn
+From function 6300048:
+retn

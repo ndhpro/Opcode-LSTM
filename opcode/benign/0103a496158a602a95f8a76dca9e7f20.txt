@@ -1,0 +1,315 @@
+From function 4196200:
+sub
+mov
+test
+jz
+call
+add
+retn
+From function 4196240:
+push
+jmp
+From function 4196256:
+jmp
+From function 4196272:
+jmp
+From function 4196288:
+jmp
+From function 4196304:
+jmp
+From function 4196320:
+jmp
+From function 4196336:
+jmp
+From function 4196352:
+jmp
+From function 4196368:
+jmp
+From function 4196384:
+jmp
+From function 4196400:
+jmp
+From function 4196416:
+jmp
+From function 4196432:
+jmp
+From function 4196448:
+jmp
+From function 4196464:
+push
+push
+push
+sub
+mov
+mov
+xor
+cmp
+jz
+mov
+mov
+xor
+jnz
+add
+pop
+pop
+pop
+retn
+mov
+call
+test
+mov
+jz
+mov
+mov
+call
+test
+mov
+jz
+mov
+mov
+call
+test
+jz
+mov
+mov
+call
+test
+mov
+jz
+mov
+mov
+call
+test
+jz
+mov
+mov
+call
+test
+jz
+lea
+lea
+lea
+lea
+mov
+mov
+xor
+call
+cmp
+jnz
+mov
+test
+jz
+mov
+mov
+xor
+call
+mov
+mov
+call
+test
+jz
+mov
+mov
+call
+test
+jz
+lea
+lea
+lea
+lea
+mov
+mov
+xor
+call
+cmp
+jnz
+cmp
+jnz
+cmp
+jnz
+cmp
+jnz
+mov
+mov
+call
+lea
+mov
+mov
+xor
+call
+sub
+jnz
+test
+jz
+mov
+call
+mov
+xor
+call
+mov
+call
+mov
+jmp
+mov
+jmp
+call
+From function 4196912:
+xor
+mov
+pop
+mov
+and
+push
+push
+mov
+mov
+mov
+call
+hlt
+From function 4196960:
+mov
+push
+sub
+cmp
+mov
+jbe
+mov
+test
+jz
+pop
+mov
+jmp
+pop
+retn
+From function 4197088:
+cmp
+jnz
+push
+mov
+call
+pop
+mov
+retn
+From function 4197120:
+mov
+cmp
+jnz
+jmp
+mov
+test
+jz
+push
+mov
+call
+pop
+jmp
+mov
+push
+sub
+sar
+mov
+mov
+shr
+add
+sar
+jz
+mov
+test
+jz
+pop
+mov
+jmp
+pop
+retn
+From function 4197168:
+test
+push
+push
+push
+jz
+mov
+mov
+jmp
+test
+jnz
+mov
+mov
+call
+mov
+mov
+call
+test
+mov
+jnz
+mov
+pop
+pop
+pop
+retn
+xor
+jmp
+From function 4197248:
+push
+push
+mov
+push
+push
+lea
+push
+lea
+push
+mov
+mov
+sub
+sub
+sar
+call
+test
+jz
+xor
+nop
+mov
+mov
+mov
+call
+add
+cmp
+jnz
+add
+pop
+pop
+pop
+pop
+pop
+pop
+retn
+From function 4197360:
+retn
+From function 4197364:
+sub
+add
+retn
+From function 6299792:
+retn
+From function 6299800:
+retn
+From function 6299808:
+retn
+From function 6299816:
+retn
+From function 6299824:
+retn
+From function 6299832:
+retn
+From function 6299840:
+retn
+From function 6299848:
+retn
+From function 6299856:
+retn
+From function 6299864:
+retn
+From function 6299872:
+retn
+From function 6299880:
+retn

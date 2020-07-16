@@ -1,0 +1,162 @@
+From function 34072:
+MOV
+STMFD
+SUB
+LDMDB
+From function 34108:
+ADR
+ADD
+LDR
+From function 34120:
+ADR
+ADD
+LDR
+From function 34132:
+ADR
+ADD
+LDR
+From function 34144:
+ADR
+ADD
+LDR
+From function 34156:
+ADR
+ADD
+LDR
+From function 34168:
+ADR
+ADD
+LDR
+From function 34180:
+ADR
+ADD
+LDR
+From function 34192:
+ADR
+ADD
+LDR
+From function 34204:
+ADR
+ADD
+LDR
+From function 34216:
+ADR
+ADD
+LDR
+From function 34228:
+ADR
+ADD
+LDR
+From function 34240:
+ADR
+ADD
+LDR
+From function 34252:
+ADR
+ADD
+LDR
+From function 34264:
+ADR
+ADD
+LDR
+From function 34276:
+ADR
+ADD
+LDR
+From function 34288:
+ADR
+ADD
+LDR
+From function 34300:
+ADR
+ADD
+LDR
+From function 34312:
+ADR
+ADD
+LDR
+From function 34324:
+MOV
+MOV
+LDR
+MOV
+STR
+STR
+LDR
+STR
+LDR
+LDR
+B
+From function 34384:
+STMFD
+LDR
+LDRB
+CMP
+LDMNEFD
+LDR
+CMP
+BEQ
+LDR
+BL
+LDR
+MOV
+STRB
+LDMFD
+From function 34452:
+STMFD
+LDR
+CMP
+BEQ
+LDR
+LDR
+BL
+LDR
+LDR
+CMP
+LDMEQFD
+LDR
+CMP
+LDMEQFD
+BLX
+LDMFD
+From function 35020:
+MOV
+STMFD
+SUB
+LDMDB
+From function 68240:
+RETEQ
+From function 68244:
+RETEQ
+From function 68248:
+RETEQ
+From function 68252:
+RETEQ
+From function 68256:
+RETEQ
+From function 68260:
+RETEQ
+From function 68264:
+RETEQ
+From function 68268:
+RETEQ
+From function 68272:
+RETEQ
+From function 68276:
+RETEQ
+From function 68280:
+RETEQ
+From function 68284:
+RETEQ
+From function 68288:
+RETEQ
+From function 68292:
+RETEQ
+From function 68296:
+RETEQ
+From function 68300:
+RETEQ
+From function 68304:
+RETEQ
+From function 68308:
+RETEQ

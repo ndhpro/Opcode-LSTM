@@ -1,0 +1,247 @@
+From function 134514184:
+push
+mov
+push
+call
+add
+call
+call
+pop
+pop
+retn
+From function 134514224:
+push
+jmp
+From function 134514240:
+jmp
+From function 134514256:
+jmp
+From function 134514272:
+jmp
+From function 134514288:
+jmp
+From function 134514304:
+jmp
+From function 134514320:
+jmp
+From function 134514336:
+jmp
+From function 134514352:
+jmp
+From function 134514368:
+jmp
+From function 134514384:
+jmp
+From function 134514400:
+jmp
+From function 134514416:
+jmp
+From function 134514432:
+jmp
+From function 134514448:
+jmp
+From function 134514464:
+jmp
+From function 134514888:
+xor
+pop
+mov
+and
+push
+push
+push
+push
+push
+push
+push
+push
+call
+hlt
+From function 134514924:
+mov
+retn
+From function 134514928:
+mov
+sub
+cmp
+ja
+retn
+mov
+test
+jz
+push
+mov
+sub
+mov
+call
+leave
+retn
+From function 134515028:
+cmp
+jnz
+push
+mov
+push
+sub
+mov
+mov
+sub
+sar
+dec
+cmp
+jnb
+inc
+mov
+call
+mov
+cmp
+jb
+call
+mov
+test
+jz
+mov
+call
+mov
+add
+pop
+pop
+retn
+From function 134515132:
+push
+mov
+sub
+call
+pop
+add
+mov
+test
+jz
+mov
+mov
+mov
+mov
+call
+mov
+test
+jz
+mov
+test
+jz
+mov
+call
+leave
+jmp
+mov
+sub
+sar
+mov
+shr
+add
+sar
+jnz
+retn
+mov
+test
+jz
+push
+mov
+sub
+mov
+mov
+call
+leave
+retn
+From function 134515224:
+push
+mov
+mov
+mov
+mov
+add
+mov
+pop
+jmp
+From function 134515255:
+mov
+mov
+add
+mov
+jmp
+From function 134515270:
+push
+mov
+push
+sub
+mov
+push
+call
+add
+mov
+mov
+leave
+jmp
+From function 134515301:
+mov
+mov
+add
+mov
+jmp
+From function 134515316:
+push
+mov
+push
+push
+mov
+mov
+cmp
+jz
+call
+sub
+mov
+cmp
+jnz
+pop
+pop
+pop
+retn
+From function 134515352:
+push
+mov
+push
+call
+add
+call
+pop
+pop
+retn
+From function 134519872:
+retn
+From function 134519876:
+retn
+From function 134519880:
+retn
+From function 134519884:
+retn
+From function 134519888:
+retn
+From function 134519892:
+retn
+From function 134519896:
+retn
+From function 134519904:
+retn
+From function 134519908:
+retn
+From function 134519912:
+retn
+From function 134519916:
+retn
+From function 134519920:
+retn
+From function 134519924:
+retn
+From function 134519928:
+retn
+From function 134519932:
+retn

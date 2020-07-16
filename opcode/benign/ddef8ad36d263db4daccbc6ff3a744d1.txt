@@ -1,0 +1,345 @@
+From function 4196008:
+li
+addu
+addiu
+sw
+sw
+sw
+bal
+nop
+jal
+nop
+bal
+nop
+jal
+nop
+lw
+jr
+addiu
+From function 4196128:
+lui
+lw
+jr
+addiu
+From function 4196144:
+lui
+lw
+jr
+addiu
+From function 4196160:
+lui
+lw
+jr
+addiu
+From function 4196176:
+lui
+lw
+jr
+addiu
+From function 4196192:
+lui
+lw
+jr
+addiu
+From function 4196208:
+lui
+lw
+jr
+addiu
+From function 4196224:
+lui
+lw
+jr
+addiu
+From function 4196240:
+lui
+lw
+jr
+addiu
+From function 4196256:
+lui
+lw
+jr
+addiu
+From function 4196272:
+lui
+lw
+jr
+addiu
+From function 4196288:
+lui
+lw
+jr
+addiu
+From function 4196304:
+lui
+lw
+jr
+addiu
+From function 4196320:
+lui
+lw
+jr
+addiu
+From function 4196336:
+lui
+lw
+jr
+addiu
+From function 4196352:
+lui
+lw
+jr
+addiu
+From function 4196368:
+addiu
+slti
+sw
+sw
+sw
+sw
+move
+bnez
+move
+lw
+lui
+jal
+la
+bnez
+lui
+lw
+beqz
+lw
+lb
+bnez
+lui
+lw
+lw
+lui
+jal
+la
+li
+lw
+lw
+lw
+lw
+jr
+addiu
+la
+li
+bne
+lui
+lw
+lb
+beqz
+addiu
+move
+jal
+li
+move
+addiu
+li
+li
+jal
+sh
+li
+li
+jal
+move
+bltz
+move
+move
+addiu
+jal
+li
+bltz
+nop
+move
+jal
+sw
+sw
+la
+sw
+move
+li
+addiu
+li
+jal
+sw
+j
+move
+beqz
+nop
+jal
+nop
+move
+addiu
+jal
+li
+move
+li
+bgez
+addiu
+lui
+jal
+la
+jal
+li
+jal
+move
+j
+li
+addiu
+j
+addiu
+jal
+li
+jal
+move
+j
+move
+jal
+nop
+li
+sw
+j
+li
+lui
+jal
+la
+j
+li
+lui
+jal
+la
+j
+nop
+From function 4196864:
+li
+move
+la
+lw
+addiu
+li
+and
+addiu
+la
+la
+sw
+sw
+jal
+sw
+b
+nop
+From function 4196944:
+addiu
+sw
+lui
+sw
+sw
+sw
+sw
+lbu
+bnez
+lui
+lui
+la
+la
+lui
+subu
+sra
+j
+addiu
+sw
+sll
+addu
+lw
+jalr
+nop
+lw
+sltu
+bnez
+addiu
+li
+sb
+lw
+lw
+lw
+lw
+lw
+jr
+addiu
+From function 4197092:
+lui
+lw
+beqz
+nop
+li
+beqz
+nop
+jr
+la
+jr
+nop
+From function 4197152:
+addiu
+sw
+lui
+sw
+li
+sw
+j
+la
+jalr
+addiu
+lw
+bne
+lw
+lw
+lw
+jr
+addiu
+From function 4197232:
+li
+addu
+addiu
+sw
+sw
+sw
+bal
+nop
+jal
+nop
+lw
+jr
+addiu
+From function 4263092:
+eret
+From function 4263096:
+eret
+From function 4263100:
+eret
+From function 4263104:
+eret
+From function 4263108:
+eret
+From function 4263112:
+eret
+From function 4263116:
+eret
+From function 4263120:
+eret
+From function 4263124:
+eret
+From function 4263128:
+eret
+From function 4263132:
+eret
+From function 4263136:
+eret
+From function 4263140:
+eret
+From function 4263144:
+eret
+From function 4263152:
+eret

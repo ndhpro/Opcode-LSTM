@@ -1,0 +1,212 @@
+From function 134513992:
+push
+mov
+push
+call
+add
+call
+call
+pop
+pop
+retn
+From function 134514032:
+push
+jmp
+From function 134514048:
+jmp
+From function 134514064:
+jmp
+From function 134514080:
+jmp
+From function 134514096:
+jmp
+From function 134514112:
+jmp
+From function 134514128:
+jmp
+From function 134514144:
+jmp
+From function 134514160:
+jmp
+From function 134514176:
+jmp
+From function 134514192:
+jmp
+From function 134514208:
+jmp
+From function 134514224:
+jmp
+From function 134514240:
+jmp
+From function 134514256:
+jmp
+From function 134514272:
+jmp
+From function 134514712:
+xor
+pop
+mov
+and
+push
+push
+push
+push
+push
+push
+push
+push
+call
+hlt
+From function 134514748:
+mov
+retn
+From function 134514752:
+mov
+sub
+cmp
+ja
+retn
+mov
+test
+jz
+push
+mov
+sub
+mov
+call
+leave
+retn
+From function 134514852:
+cmp
+jnz
+push
+mov
+push
+sub
+mov
+mov
+sub
+sar
+dec
+cmp
+jnb
+inc
+mov
+call
+mov
+cmp
+jb
+call
+mov
+test
+jz
+mov
+call
+mov
+add
+pop
+pop
+retn
+From function 134514956:
+push
+mov
+sub
+call
+pop
+add
+mov
+test
+jz
+mov
+mov
+mov
+mov
+call
+mov
+test
+jz
+mov
+test
+jz
+mov
+call
+leave
+jmp
+mov
+sub
+sar
+mov
+shr
+add
+sar
+jnz
+retn
+mov
+test
+jz
+push
+mov
+sub
+mov
+mov
+call
+leave
+retn
+From function 134515048:
+push
+mov
+push
+push
+mov
+mov
+cmp
+jz
+call
+sub
+mov
+cmp
+jnz
+pop
+pop
+pop
+retn
+From function 134515084:
+push
+mov
+push
+call
+add
+call
+pop
+pop
+retn
+From function 134519644:
+retn
+From function 134519648:
+retn
+From function 134519652:
+retn
+From function 134519656:
+retn
+From function 134519660:
+retn
+From function 134519664:
+retn
+From function 134519668:
+retn
+From function 134519672:
+retn
+From function 134519676:
+retn
+From function 134519680:
+retn
+From function 134519684:
+retn
+From function 134519688:
+retn
+From function 134519692:
+retn
+From function 134519696:
+retn
+From function 134519700:
+retn

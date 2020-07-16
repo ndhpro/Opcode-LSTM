@@ -1,0 +1,3492 @@
+From function 268446600:
+stwu
+mflr
+stw
+bl
+bl
+lwz
+addi
+mtlr
+blr
+From function 268446636:
+lis
+lis
+addi
+addi
+addi
+b
+From function 268446660:
+stwu
+mflr
+li
+stmw
+addi
+lis
+stw
+addi
+bl
+lwz
+addi
+lwz
+mr
+mr
+add
+stw
+bl
+cmpwi
+addi
+beq+
+mr
+li
+bl
+addi
+mr
+stw
+bl
+stb
+mr
+bl
+lis
+addi
+bl
+li
+addi
+mr
+stw
+bl
+lwz
+lis
+li
+stb
+addi
+addi
+li
+bl
+addi
+b
+From function 268446852:
+stwu
+mflr
+lis
+stmw
+lis
+addi
+addi
+mr
+stw
+mflr
+lis
+bl
+lis
+bl
+lwz
+ori
+addi
+subf
+bl
+mr
+addi
+bl
+mr
+mr
+mr
+bl
+addi
+cmpwi
+addi
+lis
+beq+
+addi
+li
+li
+bl
+mr
+bl
+lis
+addi
+bl
+addi
+lwz
+mr
+bl
+cmpwi
+beq+
+li
+bl
+stw
+mr
+bl
+addi
+lwz
+mr
+addi
+bl
+cmpwi
+beq+
+mr
+li
+bl
+addi
+mr
+stw
+bl
+stb
+mr
+bl
+lis
+addi
+bl
+li
+addi
+mr
+stw
+bl
+mr
+bl
+lwz
+lis
+stw
+lis
+stw
+ori
+stw
+mr
+stw
+mr
+stw
+mr
+stw
+li
+mr
+ori
+addi
+bl
+bl
+mr
+addi
+bl
+lis
+addi
+ori
+addi
+addi
+bl
+bl
+mr
+addi
+bl
+lis
+addi
+ori
+addi
+addi
+bl
+lwz
+addi
+lbz
+lwz
+lbzx
+bl
+addi
+bl
+addi
+bl
+addi
+bl
+cmplwi
+bne+
+lis
+addi
+addi
+li
+stw
+li
+li
+addi
+stw
+bl
+lwz
+cmpwi
+ble
+lwz
+cmpw
+beq
+andi.
+beq+
+clrrwi
+stw
+bl
+b
+bne
+lwz
+cmpwi
+beq
+lwz
+lwz
+mtctr
+bctrl
+bl
+mr
+addi
+bl
+lis
+addi
+ori
+addi
+addi
+bl
+bl
+mr
+addi
+bl
+lis
+addi
+ori
+addi
+addi
+bl
+lwz
+addi
+lbz
+lwz
+lbzx
+bl
+addi
+bl
+addi
+bl
+subfic
+addi
+bl
+cmpwi
+ble
+li
+bl
+mtctr
+bctrl
+b
+lis
+addi
+addi
+lis
+bl
+addi
+li
+addi
+li
+addi
+bl
+addi
+addi
+stw
+addi
+bl
+addi
+li
+addi
+stw
+bl
+addi
+bl
+lis
+addi
+mr
+bl
+bl
+bl
+lbz
+cmpwi
+beq
+mtctr
+bctrl
+addi
+bl
+addi
+bl
+addi
+bl
+lwz
+lmw
+li
+mtlr
+addi
+blr
+From function 268447836:
+mr
+clrrwi
+lis
+addi
+li
+stwu
+mtlr
+stw
+lwz
+addi
+mr
+lis
+addi
+lis
+addi
+lis
+addi
+b
+From function 268447908:
+lis
+lis
+addi
+addi
+addi
+subf
+cmplwi
+blelr+
+lis
+addi
+cmpwi
+beqlr
+mtctr
+bctr
+From function 268448024:
+stwu
+mflr
+stw
+lis
+lbz
+stw
+cmpwi
+stw
+stw
+stw
+bne
+lis
+lis
+addi
+addi
+lis
+subf
+lwz
+srawi
+addi
+addi
+cmplw
+bge
+addi
+slwi
+stw
+lwzx
+mtctr
+bctrl
+lwz
+cmplw
+blt
+bl
+lis
+addi
+cmpwi
+beq
+lis
+addi
+bl
+li
+stb
+lwz
+lwz
+mtlr
+lwz
+lwz
+lwz
+addi
+blr
+From function 268448224:
+mflr
+stwu
+stw
+lwz
+addi
+mtlr
+blr
+From function 268448252:
+lis
+mflr
+addi
+stwu
+cmpwi
+stw
+beq
+lis
+lis
+addi
+addi
+bl
+lis
+lwz
+addi
+cmpwi
+beq
+lis
+addi
+cmpwi
+beq
+mtctr
+bctrl
+lwz
+addi
+mtlr
+b
+lis
+lis
+addi
+addi
+subf
+srawi
+srawi
+addze.
+beqlr+
+lis
+addi
+cmpwi
+beqlr
+mtctr
+bctr
+From function 268448360:
+mflr
+stwu
+stw
+lwz
+addi
+mtlr
+blr
+From function 268448412:
+mflr
+stwu
+lwz
+stw
+mr
+stw
+lwz
+mtctr
+bctrl
+addi
+mr
+b
+From function 268448520:
+mflr
+stwu
+lwz
+stw
+mr
+stw
+lwz
+mtctr
+bctrl
+addi
+mr
+b
+From function 268448568:
+mflr
+stwu
+lwz
+stw
+mr
+stw
+lwz
+mtctr
+bctrl
+addi
+mr
+b
+From function 268448616:
+mflr
+stwu
+lwz
+stw
+mr
+stw
+lwz
+mtctr
+bctrl
+addi
+mr
+b
+From function 268448664:
+mflr
+stwu
+lwz
+stw
+mr
+stw
+lwz
+mtctr
+bctrl
+addi
+mr
+b
+From function 268448992:
+mflr
+stwu
+stw
+mr
+stw
+bl
+addi
+mr
+b
+From function 268449028:
+mflr
+stwu
+stw
+mr
+stw
+bl
+addi
+mr
+b
+From function 268449092:
+mflr
+stwu
+lis
+addi
+stw
+stw
+mr
+bl
+addi
+mr
+b
+From function 268449136:
+mflr
+stwu
+lis
+addi
+stw
+stw
+mr
+bl
+addi
+mr
+b
+From function 268449180:
+stwu
+mflr
+stw
+mr
+li
+stw
+bl
+li
+stw
+stw
+stw
+lwz
+lwz
+stw
+addi
+stw
+b
+From function 268449248:
+stwu
+mflr
+stw
+mr
+li
+stw
+bl
+li
+lwz
+stw
+stw
+stw
+lwz
+stw
+addi
+stw
+b
+From function 268449316:
+stwu
+mflr
+stw
+mr
+addi
+stw
+bl
+lis
+mr
+ori
+addi
+bl
+addi
+bl
+addi
+mr
+b
+From function 268449384:
+stwu
+mflr
+stw
+mr
+addi
+stw
+bl
+lis
+mr
+ori
+addi
+bl
+addi
+bl
+addi
+mr
+b
+From function 268449452:
+stwu
+mflr
+stw
+mr
+addi
+stw
+bl
+lis
+mr
+ori
+addi
+bl
+addi
+bl
+addi
+mr
+b
+From function 268449520:
+lis
+addi
+stw
+addi
+stwu
+b
+From function 268449560:
+mflr
+stwu
+stw
+mr
+stw
+bl
+lwz
+mr
+lwz
+mtlr
+addi
+b
+From function 268449624:
+lis
+addi
+stw
+addi
+stwu
+b
+From function 268449664:
+mflr
+stwu
+stw
+mr
+stw
+bl
+lwz
+mr
+lwz
+mtlr
+addi
+b
+From function 268449768:
+mflr
+stwu
+stmw
+mr
+stw
+mr
+lis
+lwz
+ori
+lwz
+subf
+bl
+li
+srawi
+divwu
+mullw
+cmplw
+bne+
+lwz
+lwz
+subf
+srawi
+mullw
+slwi.
+bne
+li
+mulli
+mr
+li
+bl
+lwz
+addi
+lwz
+lwz
+lwz
+lwz
+stw
+stw
+stw
+stw
+lwz
+stw
+lwz
+addi
+stw
+b
+From function 268449952:
+lwz
+addi
+mr
+mr
+clrrwi
+cmpwi
+beq
+mr
+lwz
+b
+cmplw
+beq
+lwz
+lwz
+lwzx
+cmplw
+bge
+mr
+cmplw
+bne+
+mflr
+stwu
+lis
+mr
+addi
+stw
+addi
+lwz
+mr
+stw
+li
+stb
+stwu
+addi
+bl
+lwz
+lwz
+mtlr
+addi
+addi
+blr
+addi
+blr
+From function 268450124:
+stwu
+mflr
+stmw
+lis
+addi
+stw
+addi
+mr
+bl
+cmpwi
+beq+
+addi
+li
+li
+bl
+mr
+bl
+lis
+addi
+bl
+addi
+lwz
+b
+From function 268450216:
+mflr
+stwu
+stmw
+stw
+bl
+lbz
+cmpwi
+bne+
+lis
+addi
+addi
+li
+addi
+li
+bl
+cmpwi
+ble
+lwz
+mr
+lwz
+clrrwi
+cmpwi
+beq
+lwzx
+cmpw
+blt
+lwz
+b
+lwz
+mr
+mr
+mr
+b
+cmpw
+mr
+beq
+lwz
+lwzx
+cmpw
+bge
+mr
+cmpw
+beq-
+lwz
+lwz
+cmpwi
+beq-
+addi
+stw
+b
+li
+li
+stb
+b
+addi
+b
+From function 268450440:
+lwz
+lwz
+b
+From function 268450452:
+lis
+li
+addi
+li
+b
+From function 268450472:
+stwu
+mflr
+stmw
+lis
+addi
+stw
+addi
+mr
+bl
+cmpwi
+beq+
+mr
+li
+bl
+addi
+mr
+stw
+bl
+stb
+mr
+bl
+lis
+addi
+bl
+li
+mr
+addi
+stw
+bl
+addi
+b
+From function 268450596:
+stwu
+mflr
+stmw
+lis
+addi
+stw
+addi
+addi
+mr
+bl
+cmpwi
+beq+
+mr
+li
+bl
+addi
+mr
+stw
+bl
+stb
+mr
+bl
+lis
+addi
+bl
+li
+mr
+addi
+stw
+bl
+addi
+b
+From function 268450724:
+stwu
+mflr
+lis
+stmw
+addi
+li
+stw
+stw
+mr
+stw
+addi
+bl
+addi
+bl
+li
+stb
+li
+stb
+addi
+stw
+bl
+addi
+bl
+addi
+bl
+addi
+bl
+li
+stw
+addi
+stb
+b
+From function 268450852:
+mflr
+stwu
+li
+stw
+stw
+bl
+mr
+bl
+addi
+mr
+b
+From function 268450896:
+stwu
+mflr
+stw
+mr
+addi
+stw
+bl
+lwz
+addi
+mr
+stw
+lbz
+stb
+b
+From function 268450952:
+cmpw
+mflr
+stwu
+stw
+mr
+stw
+beq
+bl
+addi
+mr
+b
+From function 268450996:
+lis
+addi
+stw
+b
+From function 268451012:
+mflr
+stwu
+stw
+mr
+stw
+bl
+lwz
+mr
+lwz
+mtlr
+addi
+b
+From function 268451060:
+lis
+addi
+stw
+b
+From function 268451076:
+mflr
+stwu
+stw
+mr
+stw
+bl
+lwz
+mr
+lwz
+mtlr
+addi
+b
+From function 268451124:
+mflr
+stwu
+stw
+mr
+stw
+lwz
+cmpwi
+ble
+lwz
+cmpw
+beq
+andi.
+beq+
+clrrwi
+stw
+bl
+b
+bne
+lwz
+cmpwi
+beq
+lwz
+lwz
+mtctr
+bctrl
+li
+addi
+stw
+stw
+b
+From function 268451244:
+mflr
+stwu
+stmw
+mr
+stw
+mr
+mr
+lwz
+lwz
+bl
+andi.
+mr
+mr
+beq
+lwzx
+add
+lwz
+add
+stw
+andi.
+stw
+beq+
+bl
+mr
+mr
+addi
+bl
+addi
+bl
+addi
+mr
+b
+From function 268451372:
+stwu
+mflr
+stmw
+lis
+mr
+addi
+lis
+mr
+addi
+mr
+stw
+bl
+bl
+lwz
+lwz
+cmpw
+beq
+lis
+mr
+addi
+bl
+bl
+addi
+bl
+lwz
+mr
+addi
+lwz
+li
+mtctr
+bctrl
+lis
+ori
+addi
+addi
+bl
+bl
+lis
+mr
+addi
+addi
+ori
+li
+bl
+addi
+addi
+li
+bl
+cmpwi
+beq
+lis
+mr
+addi
+bl
+addi
+mr
+addi
+bl
+addi
+mr
+bl
+bl
+addi
+bl
+lwz
+addis
+addi
+cmplwi
+ble
+mr
+addi
+bl
+b
+lis
+addi
+addi
+mr
+stw
+addi
+li
+li
+stw
+bl
+b
+li
+stb
+mr
+bl
+addi
+bl
+addi
+bl
+b
+mr
+lbz
+cmpwi
+bne
+lis
+mr
+addi
+bl
+bl
+li
+li
+li
+bl
+cmpwi
+stw
+beq
+li
+lis
+sth
+lwz
+lwz
+sth
+addi
+lwz
+lwz
+lwz
+stw
+stw
+stw
+stw
+b
+li
+li
+li
+bl
+cmpwi
+stw
+bne+
+lis
+addi
+addi
+bl
+lis
+mr
+ori
+addi
+bl
+addi
+bl
+b
+li
+stw
+sth
+lwz
+sth
+mr
+li
+stwu
+li
+lwz
+li
+li
+bl
+cmpwi
+bne+
+lis
+mr
+addi
+bl
+bl
+lwz
+addi
+li
+bl
+mr.
+beq+
+lis
+mr
+addi
+bl
+mr
+bl
+lwz
+bl
+mr
+mr
+bl
+bl
+lwz
+bl
+lis
+addi
+stw
+li
+stw
+b
+lwz
+li
+bl
+cmpwi
+beq+
+lis
+mr
+addi
+bl
+bl
+lwz
+bl
+lis
+addi
+stw
+stw
+addi
+mr
+addi
+li
+bl
+b
+lwz
+bl
+lis
+stw
+addi
+stw
+andi.
+beq+
+bl
+mr
+li
+addi
+bl
+lwz
+cmpwi
+ble
+lwz
+cmpw
+beq
+andi.
+beq+
+clrrwi
+stw
+bl
+b
+bne
+lwz
+cmpwi
+beq
+lwz
+lwz
+mtctr
+bctrl
+li
+stb
+mr
+bl
+addi
+mr
+b
+From function 268452376:
+stwu
+mflr
+mr
+addi
+stw
+bl
+addi
+bl
+lwz
+addi
+mtlr
+blr
+From function 268452440:
+mfcr
+cmpwi
+mflr
+stwu
+stmw
+mr
+stw
+mr
+stw
+bge+
+addi
+lis
+addi
+ori
+mr
+bl
+mr
+addi
+bl
+addi
+bl
+lbz
+lis
+ori
+mr
+xori
+bl
+lis
+xori
+lwz
+stb
+ori
+mr
+bl
+lbz
+stw
+cmpwi
+bne
+bge+
+lis
+lwz
+mr
+ori
+bl
+stw
+lis
+mr
+ori
+bl
+cmpwi
+beq+
+lis
+mr
+ori
+addi
+bl
+li
+mr
+mr
+bl
+lwz
+lwz
+mr
+li
+subf
+srawi
+mulli
+bl
+lwz
+lwz
+subf
+srawi
+cmplw
+bge
+slwi
+addi
+add
+bl
+lis
+addi
+ori
+bl
+cmpwi
+addi
+beq
+lis
+li
+ori
+bl
+lis
+mr
+li
+addi
+ori
+bl
+mr
+mr
+addi
+bl
+addi
+mr
+bl
+b
+lis
+ori
+bl
+cmpwi
+beq+
+lis
+addi
+addi
+ori
+bl
+lis
+addi
+ori
+li
+bl
+lwz
+stw
+stw
+lwz
+stw
+lwz
+stw
+lwz
+stw
+mr
+addi
+bl
+addi
+addi
+bl
+b
+lwz
+lwz
+cmpw
+bne+
+lis
+mr
+ori
+bl
+cmpwi
+beq
+lis
+mr
+ori
+li
+bl
+lis
+mr
+ori
+mr
+li
+bl
+mr.
+beq+
+addi
+and
+bl
+addi
+mr
+bl
+addi
+addi
+bl
+lwz
+addi
+mtcrf
+b
+From function 268453120:
+stwu
+mflr
+lis
+stmw
+lis
+addi
+addi
+mr
+mr
+mr
+stw
+bl
+bl
+lbz
+cmpwi
+bne+
+bl
+lis
+addi
+stw
+stw
+andi.
+beq+
+bl
+addi
+bl
+addi
+bl
+b
+lwz
+lwz
+cmpw
+beq
+lis
+mr
+addi
+bl
+bl
+addi
+bl
+lwz
+mr
+addi
+lwz
+li
+mtctr
+bctrl
+lis
+addi
+ori
+li
+bl
+lis
+ori
+addi
+addi
+bl
+bl
+lis
+mr
+addi
+addi
+ori
+li
+bl
+addi
+li
+li
+bl
+cmpwi
+beq
+lis
+mr
+addi
+bl
+addi
+mr
+addi
+bl
+addi
+mr
+bl
+bl
+addi
+bl
+b
+stb
+addi
+bl
+addi
+bl
+b
+lwz
+bl
+mr
+bl
+lwz
+bl
+li
+stb
+lbz
+mr
+cmpwi
+beq+
+mr
+bl
+b
+bl
+addi
+mr
+b
+From function 268453564:
+stwu
+mflr
+stmw
+mr.
+stw
+mr
+mr
+blt
+lbz
+mr
+lis
+ori
+xori
+bl
+lbz
+lis
+mr
+ori
+xori
+bl
+lis
+mr
+ori
+addi
+bl
+lis
+lwz
+mr
+ori
+bl
+lbz
+cmpwi
+beq+
+lis
+lwz
+mr
+ori
+bl
+lwz
+lwz
+cmpw
+beq
+bl
+cmpwi
+bne
+lis
+mr
+ori
+li
+bl
+lis
+mr
+ori
+li
+b
+lwz
+lis
+ori
+mr
+lwz
+bl
+lwz
+bl
+lis
+mr
+ori
+mr
+bl
+lis
+mr
+ori
+bl
+lis
+mr
+li
+ori
+lwz
+lwz
+subf
+srawi
+mullw
+cmplw
+bge
+mulli
+addi
+add
+bl
+mr
+bl
+cmpwi
+addi
+beq
+lwz
+lis
+ori
+bl
+mr
+bl
+lis
+mr
+ori
+addi
+bl
+b
+lis
+mr
+ori
+bl
+lis
+lwz
+addi
+ori
+bl
+addi
+addi
+bl
+addi
+addi
+bl
+addi
+mr
+bl
+addi
+bl
+addi
+bl
+b
+andis.
+beq+
+addi
+bl
+lbz
+lis
+addi
+ori
+xori
+bl
+lis
+addi
+ori
+addi
+bl
+lwz
+lis
+addi
+ori
+bl
+addi
+bl
+lis
+addi
+ori
+addi
+bl
+lwz
+lwz
+mr
+cmplw
+beq
+mr
+addi
+bl
+b
+mr
+mr
+addi
+bl
+addi
+bl
+lbz
+cmpwi
+beq+
+lis
+addi
+ori
+li
+bl
+addi
+bl
+addi
+addi
+bl
+lis
+mr
+ori
+addi
+bl
+addi
+bl
+addi
+bl
+addi
+b
+From function 268454336:
+mflr
+stwu
+stw
+mr
+stw
+lwz
+lwz
+bl
+lwz
+mr
+lwz
+mtlr
+addi
+b
+From function 268454392:
+cmplw
+mflr
+stwu
+mr
+stmw
+mr
+stw
+beq
+subf
+li
+srawi
+mr
+clrlwi
+addi
+bl
+mtctr
+mr
+li
+bdz
+lwzx
+stwx
+addi
+b
+addi
+mr
+b
+From function 268454496:
+mflr
+stwu
+stmw
+mr
+mr
+stw
+bl
+lwz
+lwz
+mr
+lwz
+mtlr
+lwz
+lmw
+addi
+b
+From function 268454560:
+mflr
+stwu
+stmw
+mr
+stw
+mr
+lwz
+lwz
+subf
+bl
+srawi
+srwi
+cmplw
+bne+
+lwz
+lwz
+subf
+srawi
+slwi.
+bne
+li
+mr
+slwi
+li
+bl
+lwz
+mr
+bl
+lwz
+lwz
+mr
+bl
+lwz
+addi
+addi
+stw
+b
+From function 268454708:
+stwu
+mflr
+stmw
+mr
+mr
+stw
+bl
+cmpwi
+lwz
+beq+
+mr
+mr
+li
+bl
+mtctr
+li
+li
+slwi
+addi
+stwx
+bdnz
+addi
+b
+From function 268454800:
+lwz
+lwz
+lwz
+lwz
+subf
+srawi
+subf
+srawi
+cmpw
+bne+
+addi
+li
+mtctr
+bdz
+slwi
+lwzx
+lwzx
+cmpw
+bne
+addi
+b
+li
+blr
+li
+blr
+From function 268454900:
+stwu
+mflr
+stmw
+lis
+addi
+stw
+addi
+mr
+stw
+addi
+addi
+addi
+bl
+addi
+bl
+addi
+bl
+addi
+bl
+mr
+bl
+mr
+bl
+addi
+bl
+stw
+addi
+b
+From function 268455012:
+mflr
+stwu
+stw
+mr
+stw
+bl
+lwz
+mr
+lwz
+mtlr
+addi
+b
+From function 268455060:
+mflr
+stwu
+stmw
+mr
+stw
+bl
+lis
+addi
+addi
+bl
+addi
+addi
+bl
+addi
+bl
+bl
+lbz
+bl
+lis
+addi
+ori
+addi
+bl
+lwz
+addi
+lwz
+bl
+clrlwi
+subf
+cmpwi
+ble
+li
+bl
+lwz
+addi
+li
+lwz
+cmpw
+beq
+lwz
+addi
+li
+addi
+bl
+lwz
+lwz
+lwz
+stw
+addi
+add
+li
+stw
+stw
+lwz
+lwz
+lwz
+addi
+add
+cmplw
+beq
+addi
+addi
+addi
+li
+stw
+bl
+lbz
+li
+cmpwi
+beq+
+addi
+bl
+mr
+lwz
+mr
+clrrwi
+cmpwi
+beq
+lwz
+lwzx
+cmplw
+blt
+lwz
+b
+lwz
+mr
+mr
+mr
+b
+cmplw
+beq
+lwz
+lwzx
+cmplw
+bge
+mr
+cmplw
+beq
+lwz
+b
+li
+bl
+mr
+bl
+lwz
+addi
+stw
+li
+addi
+addi
+stw
+bl
+addi
+bl
+lwz
+stw
+addi
+addi
+addi
+li
+stw
+bl
+lbz
+cmpwi
+beq+
+addi
+bl
+xori
+mr
+stb
+mr
+addi
+li
+bl
+lwz
+li
+addi
+addi
+addi
+stw
+bl
+addi
+addi
+bl
+addi
+addi
+bl
+mr
+addi
+bl
+addi
+bl
+lwz
+addi
+addi
+addi
+li
+stw
+bl
+lbz
+cmpwi
+beq+
+addi
+bl
+lwz
+li
+stb
+addi
+addi
+addi
+stw
+bl
+addi
+addi
+bl
+addi
+bl
+lwz
+addi
+stw
+lwz
+stw
+stw
+stw
+bl
+lwz
+li
+addi
+addi
+addi
+stw
+bl
+addi
+addi
+bl
+addi
+bl
+lwz
+addi
+stw
+lwz
+stw
+stw
+stw
+bl
+lwz
+li
+addi
+addi
+addi
+stw
+bl
+addi
+addi
+bl
+addi
+li
+addi
+bl
+addi
+bl
+lwz
+addi
+stw
+lwz
+stw
+stw
+stw
+bl
+addi
+bl
+lwz
+lwz
+cmpw
+beq
+addi
+mr
+bl
+mr
+addi
+bl
+addi
+bl
+lwz
+addi
+li
+addi
+addi
+stw
+bl
+addi
+bl
+lwz
+stw
+addi
+addi
+addi
+li
+stw
+bl
+lbz
+cmpwi
+beq+
+addi
+bl
+lbz
+xori
+stb
+cmpwi
+beq
+lwz
+cmpwi
+bne+
+stw
+lbz
+cmpwi
+beq+
+addi
+mr
+bl
+addi
+bl
+addi
+bl
+b
+addi
+b
+lwz
+addi
+cmplw
+beq
+addi
+stw
+bl
+lwz
+lwz
+lwz
+cmpw
+bne+
+mr
+addi
+stw
+bl
+lwz
+b
+addi
+bl
+addi
+b
+From function 268456296:
+mflr
+stwu
+li
+stmw
+mr
+stw
+mr
+mr
+stwu
+lwz
+addi
+bl
+cmpwi
+mr
+beq
+lwz
+cmplwi
+bgt
+addi
+addi
+lis
+bl
+li
+ori
+lwz
+lwz
+subf
+srawi
+mullw
+cmplw
+bge
+mulli
+addi
+add
+bl
+cmpwi
+bne
+addi
+b
+cmplw
+beq
+mr
+bl
+b
+lwz
+lwz
+cmpw
+beq
+addi
+bl
+lis
+addi
+ori
+addi
+bl
+lis
+lis
+addi
+ori
+ori
+bl
+lis
+addi
+ori
+addi
+bl
+lis
+lhz
+addi
+ori
+bl
+lbz
+cmpwi
+beq
+addi
+bl
+addi
+li
+bl
+lwz
+li
+lis
+stw
+addi
+addi
+ori
+bl
+addi
+bl
+lis
+addi
+ori
+li
+bl
+addi
+li
+li
+bl
+lwz
+lis
+addi
+ori
+bl
+addi
+bl
+addi
+addi
+bl
+lis
+addi
+addi
+ori
+bl
+addi
+bl
+lis
+mr
+addi
+ori
+bl
+bl
+addi
+lwz
+lwz
+mtctr
+bctrl
+addi
+bl
+b
+lis
+addi
+ori
+mr
+bl
+bl
+addi
+lwz
+lwz
+mtctr
+bctrl
+addi
+bl
+b
+bl
+mr.
+bge+
+lis
+lis
+addi
+addi
+bl
+bl
+b
+bne+
+lwz
+bl
+mr
+li
+bl
+mr
+li
+li
+bl
+mr
+bl
+cmpwi
+addi
+bne
+lwz
+lis
+lwz
+subf
+lwz
+srawi
+slwi
+addi
+clrrwi
+neg
+stwux
+li
+addi
+addi
+lwz
+lwz
+subf
+srawi
+cmplw
+bge
+slwi
+lwzx
+cmpwi
+bne+
+addi
+stwu
+addi
+b
+addi
+li
+slwi
+stwx
+lwz
+lwz
+cmpwi
+bne+
+lis
+addi
+bl
+li
+bl
+mr
+bl
+lwz
+lis
+addi
+addi
+lwz
+stw
+addi
+lwz
+clrrwi
+mr
+cmpwi
+beq
+lwzx
+cmpw
+blt
+lwz
+b
+lwz
+mr
+mr
+mr
+b
+cmpw
+beq
+lwz
+lwzx
+cmpw
+bge
+mr
+cmpw
+bne+
+li
+mr
+stw
+lis
+stw
+addi
+stw
+addi
+stwu
+addi
+bl
+lwz
+stw
+addi
+b
+From function 268457324:
+xoris
+mflr
+cmpwi
+stwu
+stmw
+mr
+stw
+bne
+mr
+lis
+mr
+ori
+mr
+bl
+cmpwi
+bne
+lis
+addi
+addi
+bl
+lis
+mr
+ori
+addi
+bl
+addi
+bl
+b
+lis
+mr
+ori
+mr
+bl
+addi
+mr
+addi
+bl
+lwz
+stwu
+lwz
+cmplw
+beq
+lwz
+addi
+addi
+bl
+cmpwi
+beq+
+addi
+mr
+bl
+addi
+bl
+b
+mr
+bl
+b
+mr
+bl
+addi
+bl
+b
+bl
+addi
+mr
+b
+From function 268457588:
+mflr
+stwu
+stmw
+mr
+stw
+mr
+mr
+cmplw
+beq
+mr
+stw
+addi
+bl
+lwz
+b
+lwz
+mr
+mr
+lmw
+mtlr
+addi
+b
+From function 268457676:
+mflr
+stwu
+stw
+mr
+stw
+lwz
+lwz
+bl
+lwz
+mr
+lwz
+mtlr
+addi
+b
+From function 268457732:
+mflr
+stwu
+stmw
+mr
+stw
+lwz
+lwz
+lwz
+lwz
+bl
+lwz
+mr
+mr
+mr
+bl
+addi
+mr
+b
+From function 268457804:
+mflr
+stwu
+addi
+stmw
+mr
+stw
+mr
+addi
+lwz
+stw
+addi
+bl
+lwz
+lwz
+mr
+lwz
+stw
+bl
+cmplw
+lwz
+bne+
+lwz
+addi
+addi
+addi
+stw
+lbz
+stb
+lbz
+stb
+bl
+lwz
+addi
+addi
+stw
+lbz
+stb
+bl
+addi
+addi
+bl
+lwz
+lwz
+mr
+lwz
+lwz
+bl
+lwz
+mr
+mr
+mr
+bl
+lwz
+addi
+stw
+lwz
+stw
+lbz
+stb
+b
+subf
+lis
+ori
+srawi
+mullw
+mr
+li
+mr
+addi
+bl
+mtctr
+mr
+bdz
+lwz
+addi
+lwz
+addi
+lwz
+lwz
+stw
+stw
+stw
+stw
+lwz
+stw
+b
+From function 268458148:
+cmplw
+mflr
+stwu
+stmw
+mr
+stw
+mr
+beq
+subf
+li
+srawi
+li
+mr
+bl
+mr
+cmplw
+beq
+slwi
+addi
+add
+add
+bl
+b
+addi
+mr
+b
+lwz
+lwz
+lwz
+lwz
+lwz
+lwz
+lwz
+lwz
+lwz
+lwz
+lwz
+lwz
+lwz
+lwz
+lwz
+lwz
+lwz
+lwz
+lwz
+mtlr
+mr
+blr
+From function 268458340:
+stwu
+mflr
+bl
+stmw
+mflr
+mtlr
+lwz
+cmpwi
+beq
+lwz
+b
+li
+lmw
+li
+addi
+b
+From function 268458404:
+mflr
+stwu
+stw
+lis
+stw
+addi
+lwzu
+cmpwi
+beq
+mtctr
+bctrl
+lwzu
+cmpwi
+bne
+lwz
+lwz
+mtlr
+addi
+blr
+From function 268458480:
+mflr
+stwu
+stw
+lwz
+addi
+mtlr
+blr
+From function 268458508:
+stwu
+mflr
+stw
+bl
+lwz
+addi
+mtlr
+blr
+From function 268525960:
+b
+From function 268525968:
+b
+From function 268525976:
+b
+From function 268525984:
+b
+From function 268525992:
+b
+From function 268526000:
+b
+From function 268526008:
+b
+From function 268526016:
+b
+From function 268526024:
+b
+From function 268526032:
+b
+From function 268526040:
+b
+From function 268526048:
+b
+From function 268526056:
+b
+From function 268526064:
+b
+From function 268526072:
+b
+From function 268526080:
+b
+From function 268526088:
+b
+From function 268526096:
+b
+From function 268526104:
+b
+From function 268526112:
+b
+From function 268526120:
+b
+From function 268526128:
+b
+From function 268526136:
+b
+From function 268526144:
+b
+From function 268526152:
+b
+From function 268526160:
+b
+From function 268526168:
+b
+From function 268526176:
+b
+From function 268526184:
+b
+From function 268526192:
+b
+From function 268526200:
+b
+From function 268526208:
+b
+From function 268526216:
+b
+From function 268526224:
+b
+From function 268526232:
+b
+From function 268526240:
+b
+From function 268526248:
+b
+From function 268526256:
+b
+From function 268526264:
+b
+From function 268526272:
+b
+From function 268526280:
+b
+From function 268526288:
+b
+From function 268526296:
+b
+From function 268526304:
+b
+From function 268526312:
+b
+From function 268526320:
+b
+From function 268526328:
+b
+From function 268526336:
+b
+From function 268526344:
+b
+From function 268526352:
+b
+From function 268526360:
+b
+From function 268526368:
+b
+From function 268526376:
+b
+From function 268526384:
+b
+From function 268526392:
+b
+From function 268526400:
+b
+From function 268526408:
+b
+From function 268526416:
+b
+From function 268526424:
+b
+From function 268526432:
+b
+From function 268526440:
+b
+From function 268526448:
+b
+From function 268526456:
+b
+From function 268526464:
+b
+From function 268526472:
+b
+From function 268526480:
+b
+From function 268526488:
+b
+From function 268526496:
+b
+From function 268526504:
+b
+From function 268526512:
+b
+From function 268526520:
+b
+From function 268526528:
+b
+From function 268526536:
+b
+From function 268526544:
+b
+From function 268526552:
+b
+From function 268526560:
+b
+From function 268526568:
+b
+From function 268526576:
+b
+From function 268526584:
+b
+From function 268526592:
+b
+From function 268526600:
+b
+From function 268526608:
+b
+From function 268526616:
+b
+From function 268526624:
+b
+From function 268526632:
+b
+From function 268526640:
+b
+From function 268526648:
+b
+From function 268526656:
+b
+From function 268526664:
+b
+From function 268526672:
+b
+From function 268526680:
+b
+From function 268526688:
+b
+From function 268526696:
+b
+From function 268526704:
+b
+From function 268526712:
+b
+From function 268526720:
+b
+From function 268526728:
+b
+From function 268526736:
+b
+From function 268526744:
+b
+From function 268526752:
+b
+From function 268526760:
+b
+From function 268526768:
+b
+From function 268526776:
+b
+From function 268526784:
+b
+From function 268526792:
+b
+From function 268526800:
+b
+From function 268526808:
+b
+From function 268526816:
+b
+From function 268526824:
+b
+From function 268526832:
+b
+From function 268526840:
+b
+From function 268526848:
+b
+From function 268526856:
+b
+From function 268526864:
+b
+From function 268526872:
+b
+From function 268526880:
+b
+From function 268526888:
+b
+From function 268526896:
+b
+From function 268526904:
+b
+From function 268526912:
+b
+From function 268526920:
+b
+From function 268526928:
+b
+From function 268526936:
+b
+From function 268526944:
+b
+From function 268526952:
+b
+From function 268526960:
+b
+From function 268526968:
+b
+From function 268526976:
+b
+From function 268526984:
+b
+From function 268526992:
+b
+From function 268527000:
+b
+From function 268527008:
+b
+From function 268527016:
+b
+From function 268527024:
+b
+From function 268527032:
+b
+From function 268527040:
+b
+From function 268527048:
+b
+From function 268527056:
+b
+From function 268527064:
+b
+From function 268527072:
+b
+From function 268527080:
+b
+From function 268527984:
+bclr
+From function 268527988:
+bclr
+From function 268527992:
+bclr
+From function 268527996:
+bclr
+From function 268528000:
+bclr
+From function 268528004:
+bclr
+From function 268528008:
+bclr
+From function 268528012:
+bclr
+From function 268528016:
+bclr
+From function 268528020:
+bclr
+From function 268528024:
+bclr
+From function 268528028:
+bclr
+From function 268528032:
+bclr
+From function 268528036:
+bclr
+From function 268528040:
+bclr
+From function 268528044:
+bclr
+From function 268528048:
+bclr
+From function 268528052:
+bclr
+From function 268528056:
+bclr
+From function 268528060:
+bclr
+From function 268528064:
+bclr
+From function 268528068:
+bclr
+From function 268528072:
+bclr
+From function 268528076:
+bclr
+From function 268528080:
+bclr
+From function 268528084:
+bclr
+From function 268528088:
+bclr
+From function 268528092:
+bclr
+From function 268528096:
+bclr
+From function 268528100:
+bclr
+From function 268528104:
+bclr
+From function 268528108:
+bclr
+From function 268528112:
+bclr
+From function 268528116:
+bclr
+From function 268528120:
+bclr
+From function 268528124:
+bclr
+From function 268528128:
+bclr
+From function 268528132:
+bclr
+From function 268528136:
+bclr
+From function 268528140:
+bclr
+From function 268528144:
+bclr
+From function 268528148:
+bclr
+From function 268528152:
+bclr
+From function 268528156:
+bclr
+From function 268528160:
+bclr
+From function 268528164:
+bclr
+From function 268528168:
+bclr
+From function 268528172:
+bclr
+From function 268528176:
+bclr
+From function 268528180:
+bclr
+From function 268528184:
+bclr
+From function 268528188:
+bclr
+From function 268528192:
+bclr
+From function 268528196:
+bclr
+From function 268528200:
+bclr
+From function 268528204:
+bclr
+From function 268528208:
+bclr
+From function 268528212:
+bclr
+From function 268528216:
+bclr
+From function 268528220:
+bclr
+From function 268528224:
+bclr
+From function 268528228:
+bclr
+From function 268528232:
+bclr
+From function 268528236:
+bclr
+From function 268528240:
+bclr
+From function 268528244:
+bclr
+From function 268528248:
+bclr
+From function 268528252:
+bclr
+From function 268528256:
+bclr
+From function 268528260:
+bclr
+From function 268528264:
+bclr
+From function 268528268:
+bclr
+From function 268528272:
+bclr
+From function 268528276:
+bclr
+From function 268528280:
+bclr
+From function 268528284:
+bclr
+From function 268528288:
+bclr
+From function 268528292:
+bclr
+From function 268528296:
+bclr
+From function 268528300:
+bclr
+From function 268528304:
+bclr
+From function 268528308:
+bclr
+From function 268528312:
+bclr
+From function 268528316:
+bclr
+From function 268528320:
+bclr
+From function 268528324:
+bclr
+From function 268528328:
+bclr
+From function 268528332:
+bclr
+From function 268528336:
+bclr
+From function 268528340:
+bclr
+From function 268528344:
+bclr
+From function 268528348:
+bclr
+From function 268528352:
+bclr
+From function 268528356:
+bclr
+From function 268528360:
+bclr
+From function 268528364:
+bclr
+From function 268528368:
+bclr
+From function 268528372:
+bclr
+From function 268528376:
+bclr
+From function 268528380:
+bclr
+From function 268528384:
+bclr
+From function 268528388:
+bclr
+From function 268528392:
+bclr
+From function 268528396:
+bclr
+From function 268528400:
+bclr
+From function 268528404:
+bclr
+From function 268528408:
+bclr
+From function 268528412:
+bclr
+From function 268528416:
+bclr
+From function 268528420:
+bclr
+From function 268528428:
+bclr
+From function 268528432:
+bclr
+From function 268528436:
+bclr
+From function 268528440:
+bclr
+From function 268528444:
+bclr
+From function 268528448:
+bclr
+From function 268528452:
+bclr
+From function 268528456:
+bclr
+From function 268528460:
+bclr
+From function 268528464:
+bclr
+From function 268528468:
+bclr
+From function 268528472:
+bclr
+From function 268528476:
+bclr
+From function 268528480:
+bclr
+From function 268528484:
+bclr
+From function 268528488:
+bclr
+From function 268528492:
+bclr
+From function 268528496:
+bclr
+From function 268528500:
+bclr
+From function 268528504:
+bclr
+From function 268528508:
+bclr
+From function 268528512:
+bclr
+From function 268528516:
+bclr
+From function 268528520:
+bclr
+From function 268528524:
+bclr
+From function 268528528:
+bclr
+From function 268528532:
+bclr
+From function 268528536:
+bclr
+From function 268528540:
+bclr
+From function 268528544:
+bclr
+From function 268528548:
+bclr

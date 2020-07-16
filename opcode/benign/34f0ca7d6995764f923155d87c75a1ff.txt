@@ -1,0 +1,411 @@
+From function 34308:
+MOV
+STMFD
+SUB
+LDMDB
+From function 34344:
+ADR
+ADD
+LDR
+From function 34356:
+ADR
+ADD
+LDR
+From function 34368:
+ADR
+ADD
+LDR
+From function 34380:
+ADR
+ADD
+LDR
+From function 34392:
+ADR
+ADD
+LDR
+From function 34404:
+ADR
+ADD
+LDR
+From function 34416:
+ADR
+ADD
+LDR
+From function 34428:
+ADR
+ADD
+LDR
+From function 34440:
+ADR
+ADD
+LDR
+From function 34452:
+ADR
+ADD
+LDR
+From function 34464:
+ADR
+ADD
+LDR
+From function 34476:
+ADR
+ADD
+LDR
+From function 34488:
+ADR
+ADD
+LDR
+From function 34500:
+ADR
+ADD
+LDR
+From function 34512:
+ADR
+ADD
+LDR
+From function 34524:
+ADR
+ADD
+LDR
+From function 34536:
+ADR
+ADD
+LDR
+From function 34548:
+ADR
+ADD
+LDR
+From function 34560:
+ADR
+ADD
+LDR
+From function 34572:
+ADR
+ADD
+LDR
+From function 34584:
+ADR
+ADD
+LDR
+From function 34596:
+ADR
+ADD
+LDR
+From function 34608:
+ADR
+ADD
+LDR
+From function 34620:
+ADR
+ADD
+LDR
+From function 34632:
+MOV
+MOV
+LDR
+MOV
+STR
+STR
+LDR
+STR
+LDR
+LDR
+B
+From function 34692:
+STMFD
+LDR
+LDRB
+CMP
+LDMNEFD
+LDR
+CMP
+BEQ
+LDR
+BL
+LDR
+MOV
+STRB
+LDMFD
+From function 34760:
+STMFD
+LDR
+CMP
+BEQ
+LDR
+LDR
+BL
+LDR
+LDR
+CMP
+LDMEQFD
+LDR
+CMP
+LDMEQFD
+BLX
+LDMFD
+From function 36876:
+STMFD
+SUB
+SUB
+MOV
+MOV
+MOV
+MOV
+MOV
+BL
+LDR
+MOV
+MOV
+MOV
+BL
+MOV
+MOV
+STR
+MOV
+STR
+ADD
+STR
+STRB
+BL
+CMP
+BGE
+LDR
+LDR
+LDR
+BL
+B
+LDR
+CMP
+MOVEQ
+BEQ
+LDR
+ADD
+LDR
+LDR
+BL
+MOV
+ADD
+ADD
+LDMFD
+From function 37060:
+STMFD
+SUB
+SUB
+MOV
+MOV
+MOV
+MOV
+MOV
+BL
+LDR
+MOV
+MOV
+BL
+MOV
+MOV
+MOV
+MOV
+STR
+STR
+STR
+STRB
+BL
+CMP
+BGE
+LDR
+LDR
+LDR
+BL
+B
+LDR
+CMP
+MOVEQ
+BEQ
+LDR
+ADD
+LDR
+LDR
+BL
+MOV
+ADD
+ADD
+LDMFD
+From function 39168:
+STMFD
+RSBS
+MOVCC
+CMP
+ORRHI
+SUB
+CMP
+MOV
+MOV
+BEQ
+LDR
+MOV
+LDR
+LDR
+MOV
+BL
+B
+MOV
+MOV
+MOV
+BL
+SUBS
+BGE
+LDR
+LDR
+LDR
+BL
+MOV
+B
+ADD
+MOV
+MOV
+MOV
+MOV
+BL
+MOV
+STRH
+BL
+MOV
+STR
+MOV
+MOV
+STR
+BL
+CMP
+BGE
+LDR
+BL
+B
+ADD
+MOV
+MOV
+MOV
+BL
+MOV
+MOV
+STRH
+BL
+SUBS
+BNE
+LDR
+LDR
+LDR
+BL
+MOV
+BL
+B
+MOV
+ADD
+STR
+STR
+BL
+ADD
+STR
+STR
+MOV
+MOV
+MOV
+STRH
+BL
+LDR
+MOV
+MOV
+STR
+STR
+MOV
+BL
+ADD
+MOV
+STR
+MOV
+STR
+MOV
+MOV
+STR
+STR
+BL
+SUBS
+LDR
+LDRLT
+BLT
+MOV
+MOV
+MOV
+BL
+MOV
+MOV
+MOV
+BL
+SUBS
+BGE
+LDR
+BL
+B
+MOV
+LDR
+MOV
+BL
+MOV
+BL
+MOV
+BL
+MOV
+ADD
+LDMFD
+From function 39696:
+MOV
+STMFD
+SUB
+LDMDB
+From function 75092:
+RETEQ
+From function 75096:
+RETEQ
+From function 75100:
+RETEQ
+From function 75104:
+RETEQ
+From function 75108:
+RETEQ
+From function 75112:
+RETEQ
+From function 75116:
+RETEQ
+From function 75120:
+RETEQ
+From function 75124:
+RETEQ
+From function 75128:
+RETEQ
+From function 75132:
+RETEQ
+From function 75136:
+RETEQ
+From function 75140:
+RETEQ
+From function 75144:
+RETEQ
+From function 75148:
+RETEQ
+From function 75152:
+RETEQ
+From function 75156:
+RETEQ
+From function 75160:
+RETEQ
+From function 75164:
+RETEQ
+From function 75168:
+RETEQ
+From function 75172:
+RETEQ
+From function 75176:
+RETEQ
+From function 75180:
+RETEQ
+From function 75184:
+RETEQ
